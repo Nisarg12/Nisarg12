@@ -1,6 +1,6 @@
 ### ⚙ IT student, dabbling into cysec and gamedev :)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisarg12&theme=tokyonight&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nisarg12&theme=gotham&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![anuraghazra's github stats:https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Nisarg12&theme=algolia&include_all_commits=true&include_private=true&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&line_height=25)
 

@@ -1,7 +1,6 @@
 ### ⚙ IT student, dabbling into cysec, gamedev & emudev :)
 
 📖 Currently Reading: 'Study of the techniques for emulation'.\
-🌱 Currently Learning: Flutter, Dart, Firebase.
 
 ![Streak Card: https://github.com/DenverCoder1/github-readme-streak-stats](http://github-readme-streak-stats.herokuapp.com?user=Nisarg12&background=0D1117&border=ffffff&stroke=4c8eda&ring=4c8eda&fire=1f6fea&currStreakNum=c3d1d9&sideNums=ffffff&currStreakLabel=1f6fea&sideLabels=58a5fe&dates=ffffff)
 

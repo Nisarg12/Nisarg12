@@ -1,4 +1,4 @@
-### ⚙ IT student, dabbling into cysec, gamedev & emudev :)
+### ⚙ IT student, dabbling into Cyber Security, GameDev & EmuDev :)
 
 📖 Currently Reading: 'Study of the techniques for emulation'
 

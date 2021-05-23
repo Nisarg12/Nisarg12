@@ -1,6 +1,7 @@
 ### ⚙ IT student, dabbling into Cyber Security, GameDev & EmuDev :)
 
 📖 Currently Reading: 'Study of the techniques for emulation'
+🧰 Currently Building: Autonomous Proximity based Attendance System.
 
 ![Stats Card: https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Nisarg12&theme=algolia&include_all_commits=true&include_private=true&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&line_height=25)
 

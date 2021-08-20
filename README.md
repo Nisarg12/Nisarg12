@@ -1,4 +1,4 @@
-### ⚙ IT student, dabbling into Cyber Security, GameDev & EmuDev :)
+### ⚙ IT student, dabbling into Cyber Security, Digital Forensics & EmuDev :)
 
 📖 Currently Reading: 'Study of the techniques for emulation' - 32%
 
